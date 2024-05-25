@@ -10,9 +10,9 @@
 * Подробный листинг команд с комментариями и этапами работы [здесь](https://github.com/Aberezhnoy1980/CI-CD_project/blob/main/commands.sh)
 * Рецепт доставки [здесь](https://github.com/Aberezhnoy1980/CI-CD_project/blob/main/.github/workflows/docker-image.yml) 
 * Работа контейнера на сервере (без крайнего коммита в котором пишется этот README):
-![server_container](https://github.com/Aberezhnoy1980/CI-CD_project/tree/main/img/server_container.png "log")
+![server_container](https://github.com/Aberezhnoy1980/CI-CD_project/blob/main/img/server_container.png "log")
 * Запуск контейнера из образа на сервере (без крайнего коммита в котором пишется этот README):
-![server_image](https://github.com/Aberezhnoy1980/CI-CD_project/tree/main/img/server_image.png "log")
+![server_image](https://github.com/Aberezhnoy1980/CI-CD_project/blob/main/img/server_image.png "log")
 
 <hr>
 Работу выполнил студент
